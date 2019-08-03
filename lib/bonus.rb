@@ -22,6 +22,7 @@ def bonus
   epic_tragedy[:capulet][:heroine][:status] = "dead"
   }
 
+puts
  
   #code your solution here:
 
